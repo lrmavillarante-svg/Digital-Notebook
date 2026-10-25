@@ -1,0 +1,24 @@
+{
+  "name": "web-systems-and-technology",
+  "version": "1.0.0",
+  "description": "Web Systems and Technology",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrmavillarante-svg/Digital-Notebook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lrmavillarante-svg/Digital-Notebook/issues"
+  },
+  "homepage": "https://github.com/lrmavillarante-svg/Digital-Notebook#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
